@@ -1,2 +1,3 @@
 Saad Kamboh
 23-st-035
+cout<<"The addition of two numbers"<<a+b<<endl;
