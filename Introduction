@@ -1,3 +1,6 @@
 Saad Kamboh
 23-st-035
 cout<<"The addition of two numbers"<<a+b<<endl;
+cout<<"The Subtraction of two numbers"<<a-b<<endl; 
+cout<<"The product of two numbers"<<a*b<<endl;
+cout<<"The Division of two numbers"<<a/b<<endl;
